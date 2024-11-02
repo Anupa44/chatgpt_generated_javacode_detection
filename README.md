@@ -21,8 +21,8 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/chatgpt_generated_javacode_detection.git
 
-### Run the UI
+Run the UI
 To launch the user interface:
 
-```bash
+bash
 python app.py
