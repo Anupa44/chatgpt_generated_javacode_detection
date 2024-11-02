@@ -12,8 +12,18 @@ The tool includes a simple UI where users can upload a Java file and receive a p
 ## Prerequisites
 - Python 3.8 or higher
 - Jupyter Notebook
-- Required packages (see `requirements.txt`)
+- Required packages 
 
-To install the required packages, run:
+## Getting Started
+
+### Clone the Repository
+To get started, clone this repository:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yourusername/chatgpt_generated_javacode_detection.git
+### Prerequisites
+- Python 3.8 or higher
+- Jupyter Notebook
+- Required packages 
+Make sure to install the required packages
+```bash
+pip install numpy pandas scikit-learn tree_sitter
