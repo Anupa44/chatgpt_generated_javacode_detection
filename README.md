@@ -17,13 +17,12 @@ The tool includes a simple UI where users can upload a Java file and receive a p
 ## Getting Started
 
 ### Clone the Repository
-To get started, clone this repository:
+To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/chatgpt_generated_javacode_detection.git
-### Prerequisites
-- Python 3.8 or higher
-- Jupyter Notebook
-- Required packages 
-Make sure to install the required packages
+
+### Run the UI
+To launch the user interface:
+
 ```bash
-pip install numpy pandas scikit-learn tree_sitter
+python app.py
